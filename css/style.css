@@ -32,16 +32,16 @@ p {
     width: 100%;
     float: none;
     position: relative;
-    border: 1px solid lightgray;
+    border: 1px solid black;
     border-radius: 4px;
     padding: 12px;
+    background-color: #989a99;
 }
 
 .section-title {
     position: absolute;
     top: 0;
     right: 0;
-    background-color: yellow;
     padding: 10px 20px;
     border: 1px solid black;
 }
@@ -51,15 +51,15 @@ p {
 }
 
 .chicken {
-    background-color: #FFE4C4;
+    background-color: #d59996;
 }
 
 .beef {
-    background-color: #DEB887;
+    background-color: #c14643;
 }
 
 .sushi {
-    background-color: #F5DEB3;
+    background-color: #e5d198;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
